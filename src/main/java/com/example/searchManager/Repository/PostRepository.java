@@ -1,4 +1,4 @@
-package com.example.searchManager;
+package com.example.searchManager.Repository;
 
 import com.example.searchManager.Model.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
